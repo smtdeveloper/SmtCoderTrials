@@ -11,6 +11,7 @@ class PasswordManager
 
     static void Main()
     {
+
         while (true)
         {
             Console.Clear();
