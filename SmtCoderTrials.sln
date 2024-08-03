@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{EA450578-3A9E-448E-B8F4-B1619B9BCCBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{EA450578-3A9E-448E-B8F4-B1619B9BCCBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SifreYoneticisiUygulaması", "SifreYoneticisiUygulaması\SifreYoneticisiUygulaması.csproj", "{2B520EFF-4CC7-4583-8C0D-1FA6891DBF05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EA450578-3A9E-448E-B8F4-B1619B9BCCBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA450578-3A9E-448E-B8F4-B1619B9BCCBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA450578-3A9E-448E-B8F4-B1619B9BCCBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B520EFF-4CC7-4583-8C0D-1FA6891DBF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B520EFF-4CC7-4583-8C0D-1FA6891DBF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B520EFF-4CC7-4583-8C0D-1FA6891DBF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B520EFF-4CC7-4583-8C0D-1FA6891DBF05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
