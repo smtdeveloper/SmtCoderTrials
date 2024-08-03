@@ -135,7 +135,10 @@ class PasswordManager
             }
         }
 
+
         return Convert.ToBase64String(array);
+
+
     }
 
     static string Decrypt(string cipherText, string key)
