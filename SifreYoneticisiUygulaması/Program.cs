@@ -13,7 +13,9 @@ class PasswordManager
     {
 
         while (true)
-        {
+        {  
+
+
             Console.Clear();
             Console.WriteLine("Şifre Yöneticisi Uygulaması");
             Console.WriteLine("1. Şifre Ekle");
